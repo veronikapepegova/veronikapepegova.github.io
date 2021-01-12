@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="15" viewBox="0 0 21 15">
+    <g fill="none" fill-rule="evenodd">
+        <rect width="21" height="15" fill="#FFF" rx="1"/>
+        <rect width="20" height="1" x="1" fill="#E62A44" rx=".5"/>
+        <path fill="#E62A44" d="M0 4H21V5H0zM0 8H21V9H0zM0 12H21V13H0zM0 2H21V3H0zM2 6H21V7H2z"/>
+        <path fill="#211D92" d="M0 6H2V7H0zM8 0H9V7H8z"/>
+        <path fill="#E62A44" d="M0 10H21V11H0z"/>
+        <rect width="21" height="1" y="14" fill="#E62A44" rx=".5"/>
+        <rect width="8" height="6" x=".5" y=".5" fill="#A9ACD3" stroke="#211D92" rx="1"/>
+        <path fill="#7C7AC2" d="M2 1H3V2H2zM2 3H3V4H2zM2 5H3V6H2zM1 4H2V5H1zM1 2H2V3H1zM4 1H5V2H4zM4 3H5V4H4zM4 5H5V6H4zM3 4H4V5H3zM3 2H4V3H3zM6 1H7V2H6zM6 3H7V4H6zM7 2H8V3H7zM7 4H8V5H7zM6 5H7V6H6zM5 4H6V5H5zM5 2H6V3H5z"/>
+        <rect width="20" height="14" x=".5" y=".5" stroke="#000" stroke-opacity=".184" rx="1"/>
+    </g>
+</svg>
